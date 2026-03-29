@@ -58,6 +58,6 @@ const featured_projects = [
 ```
 ### Open Source
 - Hacktoberfest contributor (4 years), contributing across multiple repositories
-- Currently contributing to and exploring the Wagtail ecosystem
+- Actively exploring open-source contributions, particularly in content management systems and internationalization
 
 [![An image of @gitsatishgarg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitsatishgarg)](https://holopin.io/@gitsatishgarg)
