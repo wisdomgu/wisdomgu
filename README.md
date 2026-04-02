@@ -5,8 +5,7 @@
 
 ```javascript
 var satish = {
-    about: "A developer experienced in Django, APIs, and workflow systems. Interested in building scalable systems
-    and improving developer and user workflows, with a current focus on open-source contributions.",
+    about: "A developer interested in building scalable systems with a current focus on open-source contributions.",
     pronouns: "He/Him",
     code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "JavaScript"],
     askMeAbout: ["Web Development", "Backend Systems", "UI/UX", "Internationalization", "Quant"],
