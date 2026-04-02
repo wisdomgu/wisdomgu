@@ -5,7 +5,8 @@
 
 ```javascript
 var satish = {
-    about: "Backend-focused developer experienced in Django, APIs, and workflow systems. Interested in building scalable systems and improving developer and user workflows, with a current focus on open-source contributions in content management systems and internationalization.",
+    about: "A developer experienced in Django, APIs, and workflow systems. Interested in building scalable systems
+    and improving developer and user workflows, with a current focus on open-source contributions.",
     pronouns: "He/Him",
     code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "JavaScript"],
     askMeAbout: ["Web Development", "Backend Systems", "UI/UX", "Internationalization", "Quant"],
@@ -37,7 +38,7 @@ var satish = {
 const featured_projects = [
     {
         name: "Regime-Aware Reinforcement Learning for Optimal Trade Execution",
-        desc: "Empirical study of regime-conditioned reinforcement learning for optimal trade execution in simulated limit order book markets"
+        desc: "Study of regime-conditioned RL for optimal trade execution in simulated limit order book markets"
     },
     {
         name: "PlanWise – AI-Powered Plan Generator",
