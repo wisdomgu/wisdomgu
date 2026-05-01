@@ -40,6 +40,10 @@ const featured_projects = [
         desc: "Study of regime-conditioned RL for optimal trade execution in simulated limit order book markets"
     },
     {
+        name: "Regim",
+        desc: "A quantitative finance market microstructure & optimal execution research system."
+    }
+    {
         name: "PlanWise – AI-Powered Plan Generator",
         desc: "Generate, visualize, and track AI-generated personalized plans with React, GSAP & OpenRouter API"
     },
@@ -54,10 +58,6 @@ const featured_projects = [
     {
         name: "Expense Tracker",
         desc: "Manage finances with Python, SQL & Tkinter"
-    },
-    {
-        name: "School Competition Website (IMAGE)",
-        desc: "Responsive React/TypeScript site with animations"
     }
 ];
 ```
