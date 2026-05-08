@@ -5,7 +5,7 @@
 
 ```javascript
 var satish = {
-    about: "A developer interested in building scalable systems with a current focus on open-source contributions.",
+    about: "A full-stack developer specializing in web development with a newfound focus on quant.",
     pronouns: "He/Him",
     code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "JavaScript"],
     askMeAbout: ["Web Development", "Backend Systems", "UI/UX", "Internationalization", "Quant"],
