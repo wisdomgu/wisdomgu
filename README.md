@@ -42,7 +42,11 @@ const featured_projects = [
     {
         name: "Regim",
         desc: "A quantitative finance market microstructure & optimal execution research system."
-    }
+    },
+    {
+        name: "HMM Uncertainty Signals in Optimal Trade Execution",
+        desc: "Cross-asset study of HMM regime uncertainty signals as predictors of execution quality."
+    },
     {
         name: "PlanWise – AI-Powered Plan Generator",
         desc: "Generate, visualize, and track AI-generated personalized plans with React, GSAP & OpenRouter API"
@@ -55,10 +59,6 @@ const featured_projects = [
         name: "Re:Draw",
         desc: "Convert handwritten notes to digital text with Python & OpenCV"
     },
-    {
-        name: "Expense Tracker",
-        desc: "Manage finances with Python, SQL & Tkinter"
-    }
 ];
 ```
 
