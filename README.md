@@ -36,16 +36,20 @@ var satish = {
 ```javascript
 const featured_projects = [
     {
-        name: "Regime-Aware Reinforcement Learning for Optimal Trade Execution",
-        desc: "Study of regime-conditioned RL for optimal trade execution in simulated limit order book markets"
-    },
-    {
         name: "Regim",
         desc: "A quantitative finance market microstructure & optimal execution research system."
     },
     {
+        name: "Regime-Aware Reinforcement Learning for Optimal Trade Execution",
+        desc: "Study of regime-conditioned RL for optimal trade execution in simulated limit order book markets"
+    },
+    {
         name: "HMM Uncertainty Signals in Optimal Trade Execution",
         desc: "Cross-asset study of HMM regime uncertainty signals as predictors of execution quality."
+    },
+    {
+        name: "Regime Survival Forecasting for Adaptive Execution: Beyond Fixed Aggregation Windows",
+        desc: "Tests if predicted regime duration can replace fixed aggregation windows in HMM execution"
     },
     {
         name: "PlanWise – AI-Powered Plan Generator",
@@ -54,11 +58,7 @@ const featured_projects = [
     {
         name: "Dexterity: EventEye",
         desc: "Full-stack event management app with Flask & PostgreSQL"
-    },
-    {
-        name: "Re:Draw",
-        desc: "Convert handwritten notes to digital text with Python & OpenCV"
-    },
+    }
 ];
 ```
 
