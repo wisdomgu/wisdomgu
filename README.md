@@ -5,10 +5,10 @@
 
 ```javascript
 var satish = {
-    about: "A full-stack developer specializing in web development with a newfound focus on quant.",
+    about: "A student and a quantitative researcher building trading strategies and statistical models.",
     pronouns: "He/Him",
     code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "JavaScript"],
-    askMeAbout: ["Web Development", "Backend Systems", "UI/UX", "Internationalization", "Quant"],
+    askMeAbout: ["Quant", "Web Development", "Backend Systems", "UI/UX", "Internationalization"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
