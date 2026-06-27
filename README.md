@@ -28,7 +28,7 @@ var satish = {
         currentFocus: "Open Source",
         writing_systems_learned: 9,
         lore_behind_username: "Reference to Reverend Insanity",
-        pfp_made_by: "Me"
+        lore_behind_pfp: "The Antikythera Mechanism",
     },
 };
 ```
